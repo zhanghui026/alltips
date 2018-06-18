@@ -1,0 +1,1 @@
+# AllTips for my mac program tips
