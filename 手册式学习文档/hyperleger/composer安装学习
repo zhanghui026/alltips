@@ -1,0 +1,10 @@
+# composer安装学习
+
+
+## 安装的docker ima
+
+* fabric-peer-1.2.1
+* fabric-order-1.2.1
+* fabric-ccenv-1.2.1
+* fabric-ca-1.2.1
+* fabric-couchdb-1.2.1
