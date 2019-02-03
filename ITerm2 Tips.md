@@ -42,3 +42,11 @@ You then need to select this theme in your ~/.zshrc:
     POWERLEVEL9K_DIR_HOME_FOREGROUND="white"
     POWERLEVEL9K_DIR_HOME_SUBFOLDER_FOREGROUND="white"
     ```
+
+* 中文乱码
+
+ 在~/.zshrc文件中加入
+ ```
+  export LC_ALL=en_US.UTF-8  
+  export LANG=en_US.UTF-8
+ ```
