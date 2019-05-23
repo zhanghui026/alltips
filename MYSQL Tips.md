@@ -26,3 +26,16 @@
 
 7、drop database [schema名称|数据库名称];--删除数据库
 ```
+
+
+
+mysql8
+
+```sql
+
+create user 'antman_opr'@'%' identified WITH mysql_native_password by 'antman_pass';
+
+
+grant select,insert,update,delete,create on antman.* to antman_opr;
+```
+
